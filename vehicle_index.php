@@ -48,7 +48,7 @@ global $conn_admin_db;
                         <div class="form-group row col-sm-12 text-center">
                             <div class="col-sm-2">&nbsp;</div>
                             <div class="col-sm-8">
-                            	A system to keep track on the vehicle information such as insurance, roadtax, permit, puspakom, summons and maintenance. Each vehicle will be recorded in this system to monitor the renewal date and also monthly and yearly expenses by company.
+                            	TESTING !! : A system to keep track on the vehicle information such as insurance, roadtax, permit, puspakom, summons and maintenance. Each vehicle will be recorded in this system to monitor the renewal date and also monthly and yearly expenses by company.
                             </div>
                             <div class="col-sm-2">&nbsp;</div>
                         </div>  
